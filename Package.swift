@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "MapLibre",
-            url: "https://github.com/helass457/lode-maplibre/releases/download/lode-9/MapLibre.dynamic.xcframework.zip",
-            checksum: "e86f772085ecaf0d45b768e21df94a3049b52574336bc4e780f396a2667e5b06")
+            url: "https://github.com/helass457/lode-maplibre/releases/download/lode-10/MapLibre.dynamic.xcframework.zip",
+            checksum: "4b5b58922a15ad3dd5b5e0f0a019eb519f597ebb4bcf1987d1e94970f0e9a017")
     ]
 )
